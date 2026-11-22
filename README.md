@@ -2,7 +2,7 @@
 
 BDA700 Health Analytics, Project Milestone 2: a machine learning classification app deployed with Streamlit Community Cloud.
 
-**Live app:** https://your-app-name.streamlit.app  *(replace with your Streamlit Community Cloud URL)*
+**Live app:** [https://your-app-name.streamlit.app](https://heart-disease-risk-predictor-srvajrjxhhxopt3cuhprpm.streamlit.app/)  *(replace with your Streamlit Community Cloud URL)*
 
 ## Project description
 The app predicts whether a patient is **Normal** or at **Risk** of ischemic heart disease from 13 clinical measurements (age, sex, chest pain type, blood pressure, cholesterol, maximum heart rate, and others). The user enters the values, clicks **Predict**, and receives the predicted class and the probability of each class.
